@@ -7,7 +7,7 @@ How to use:
 4. ![example](https://user-images.githubusercontent.com/86154919/149926562-6a493434-72c9-4c08-9020-4eaaaf4c3ff7.png)
 
 
-
+Excel精确分子量计算插件
 如何使用：
 1. 下载"MWAddInV4.xlam"文件。
 2. 将"MWAddInV4.xlam"文件放在C:\Users\"username"\AppData\Roaming\Microsoft\AddIns文件夹，"username"处填写你的用户名。
