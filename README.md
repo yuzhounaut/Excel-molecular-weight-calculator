@@ -3,14 +3,15 @@ How to use:
 1. Download the add-in file "MWAddInV4.xlam".
 2. Put the add-in file in the C:\Users\"username"\AppData\Roaming\Microsoft\AddIns folder.
 3. Enable the add-in. Click the **File** tab, click **Options**, and then click the **Add-Ins** category. In the **Manage** box, click **Excel Add-ins**, and then click **Go**. The **Add-Ins** dialog box appears. In the **Add-Ins available** box, select the check box next to the add-in that you want to activate, and then click **OK**.
-4. ![example](https://user-images.githubusercontent.com/86154919/149926298-aed00a4e-dd07-4ea2-80a6-05cfa997762f.png)
+4. ![example](https://user-images.githubusercontent.com/86154919/149926562-6a493434-72c9-4c08-9020-4eaaaf4c3ff7.png)
+
 
 
 如何使用：
 1. 下载"MWAddInV4.xlam"文件。
 2. 将"MWAddInV4.xlam"文件放在C:\Users\"username"\AppData\Roaming\Microsoft\AddIns文件夹，"username"处填写你的用户名。
 3. 激活Excel加载项。单击“文件”选项卡，单击“选项”，然后单击“加载项”类别。在“管理”框中，单击“Excel 加载项”，然后单击“转到”。将显示 "加载项" 对话框。在"可用加载项"框中，选中要激活的加载项MWAddInV4旁边的复选框，然后单击"确定"。
-4. ![example](https://user-images.githubusercontent.com/86154919/149926299-e33f4c39-3f28-4b71-bced-4ce5290a0eba.png)
+4. ![example](https://user-images.githubusercontent.com/86154919/149926566-33080d9a-20b3-423a-bdb8-4de2b3cf7220.png)
 
 
 
