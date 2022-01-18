@@ -1,4 +1,18 @@
 This repository provides code for the Molecular Weight V4.1 Excel add-in. After installing, users can get the molecular weight of a string by calling the new Excel function mw(chemicalName), e.g. typing in a cell =mw("H2O") would yield 18.01528. This add-in can handle isotopes, charges, and complex formulas. This add-in also allows users to specify custom names for both chemicals (e.g. "water" for H<sub>2</sub>O) and specific functional groups (e.g. "Me" for CH<sub>3</sub>).
+How to use:
+1. Download the add-in file "MWAddInV4.xlam".
+2. Put the add-in file in the C:\Users\"username"\AppData\Roaming\Microsoft\AddIns folder.
+3. Enable the add-in. Click the **File** tab, click **Options**, and then click the **Add-Ins** category. In the **Manage** box, click **Excel Add-ins**, and then click **Go**. The **Add-Ins** dialog box appears. In the **Add-Ins available** box, select the check box next to the add-in that you want to activate, and then click **OK**.
+4. ![example](https://user-images.githubusercontent.com/86154919/149926298-aed00a4e-dd07-4ea2-80a6-05cfa997762f.png)
+
+
+如何使用：
+1. 下载"MWAddInV4.xlam"文件。
+2. 将"MWAddInV4.xlam"文件放在C:\Users\"username"\AppData\Roaming\Microsoft\AddIns文件夹，"username"处填写你的用户名。
+3. 激活Excel加载项。单击“文件”选项卡，单击“选项”，然后单击“加载项”类别。在“管理”框中，单击“Excel 加载项”，然后单击“转到”。将显示 "加载项" 对话框。在"可用加载项"框中，选中要激活的加载项MWAddInV4旁边的复选框，然后单击"确定"。
+4. ![example](https://user-images.githubusercontent.com/86154919/149926299-e33f4c39-3f28-4b71-bced-4ce5290a0eba.png)
+
+
 
 The codes were originally created at http://www.sciencechatforum.com/viewtopic.php?f=15&t=17657, but the site is now inaccessible.
 
