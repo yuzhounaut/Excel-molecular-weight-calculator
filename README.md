@@ -3,6 +3,8 @@ This repository provides code for the Molecular Weight V4.1 Excel add-in. After 
 Recommended reading:
 https://fiehnlab.ucdavis.edu/projects/seven-golden-rules/accurate-mass
 
+https://www.livescience.com/20581-weigh-atom.html
+
 How to use:
 1. Download the add-in file "MWAddInV4.xlam".
 2. Put the add-in file in the C:\Users\\"username"\AppData\Roaming\Microsoft\AddIns folder.
