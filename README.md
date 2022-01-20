@@ -6,6 +6,8 @@ https://fiehnlab.ucdavis.edu/projects/seven-golden-rules/accurate-mass
 
 https://www.livescience.com/20581-weigh-atom.html
 
+https://iupac.qmul.ac.uk/AtWt/
+
 How to use:
 1. Download the add-in file "MWAddInV4.xlam".
 2. Put the add-in file in the C:\Users\\"username"\AppData\Roaming\Microsoft\AddIns folder.
