@@ -12,8 +12,10 @@ How to use:
 1. Download the add-in file "MWAddInV4.xlam".
 2. Put the add-in file in the C:\Users\\"username"\AppData\Roaming\Microsoft\AddIns folder.
 3. Enable the add-in. Click the **File** tab, click **Options**, and then click the **Add-Ins** category. In the **Manage** box, click **Excel Add-ins**, and then click **Go**. The **Add-Ins** dialog box appears. In the **Add-Ins available** box, select the check box next to the add-in that you want to activate, and then click **OK**.
-4. Example of monoisotopic molecular mass calculation, both formulas can be used.
-5. An example of calculating the molecular weight of an isotope, taking <sup>13</sup>C as an example, need to add a "!" symbol in front.
+   You may encounter an error saying "This file type is not supported in Protected View" when trying to load a new add-in in Excel. The solution is to add the file's location to the trusted paths.
+   To do this, open Excel and go to File -> Options -> Trust Center -> Trust Center Settings -> Trusted Locations. Then, add the location of the files you need to load, which is C:\Users\"username"\AppData\Roaming\Microsoft\AddIns.
+5. Example of monoisotopic molecular mass calculation, both formulas can be used.
+6. An example of calculating the molecular weight of an isotope, taking <sup>13</sup>C as an example, need to add a "!" symbol in front.
 
 ![11](https://user-images.githubusercontent.com/86154919/150274880-58c52dd8-7caf-4280-8079-cf3b076bcbad.png)
 
@@ -24,8 +26,10 @@ Excel精确分子量计算插件
 1. 下载"MWAddInV4.xlam"文件。
 2. 将"MWAddInV4.xlam"文件放在C:\Users\\"username"\AppData\Roaming\Microsoft\AddIns文件夹，"username"处填写你的用户名。
 3. 激活Excel加载项。单击“文件”选项卡，单击“选项”，然后单击“加载项”类别。在“管理”框中，单击“Excel 加载项”，然后单击“转到”。将显示 "加载项" 对话框。在"可用加载项"框中，选中要激活的加载项MWAddInV4旁边的复选框，然后单击"确定"。
-4. 单一同位素分子质量计算示例，两公式均可使用。
-5. 计算同位素分子量示例，以<sup>13</sup>C为例，需在前面加“!”符号。
+   可能会遇到Excel新增加载项时报错“受保护的视图中不支持此文件类型”，解决办法：需要将文件所在的路径添加到信任路径中。
+   需要在Excel打开【文件】->【选项】->【信任中心】->【信任中心设置】->【受信任位置】下添加需要加载的文件所在的位置C:\Users\\"username"\AppData\Roaming\Microsoft\AddIns
+5. 单一同位素分子质量计算示例，两公式均可使用。
+6. 计算同位素分子量示例，以<sup>13</sup>C为例，需在前面加“!”符号。
 
 ![11](https://user-images.githubusercontent.com/86154919/150274881-71572c1c-def0-4d77-9c30-ed3aebfca660.png)
 
